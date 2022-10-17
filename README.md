@@ -1,6 +1,6 @@
-# Widgets - Countdown Support Page
+# Widgetsmile Support Page
 
-Widgets - Countdown make it super easy to customize your home screen like never before.
+Widgetsmile make it super easy to customize your home screen like never before.
 
 Customize every widget, and personalize your own home screen.
 

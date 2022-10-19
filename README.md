@@ -1,6 +1,6 @@
-# Widgetsmile Support Page
+# 'Widgets - Countdown and Photo' Support Page
 
-Widgetsmile make it super easy to customize your home screen like never before.
+'Widgets - Countdown and Photo' make it super easy to customize your home screen like never before.
 
 Customize every widget, and personalize your own home screen.
 

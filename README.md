@@ -1,6 +1,6 @@
 # 'Widget@' Support Page
 
-'Widgets - Countdown and Photo' make it super easy to customize your home screen like never before.
+'Widget@' make it super easy to customize your home screen like never before.
 
 Customize every widget, and personalize your own home screen.
 

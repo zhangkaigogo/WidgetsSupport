@@ -1,4 +1,4 @@
-# 'Widgets - Countdown and Photo' Support Page
+# 'Widget@' Support Page
 
 'Widgets - Countdown and Photo' make it super easy to customize your home screen like never before.
 

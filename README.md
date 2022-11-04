@@ -1,6 +1,6 @@
-# 'Widget@' Support Page
+# 'Widgetful' Support Page
 
-'Widget@' make it super easy to customize your home screen like never before.
+'Widgetful' make it super easy to customize your home screen like never before.
 
 Customize every widget, and personalize your own home screen.
 

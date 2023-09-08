@@ -1,6 +1,6 @@
-# 'Widgetful' Support Page
+# 'Simple Widgets • Photo' Support Page
 
-'Widgetful' make it super easy to customize your home screen like never before.
+'Simple Widgets • Photo' make it super easy to customize your home screen like never before.
 
 Customize every widget, and personalize your own home screen.
 
